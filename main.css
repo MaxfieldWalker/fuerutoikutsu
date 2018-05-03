@@ -1,0 +1,34 @@
+html,body {
+    margin: 20px;
+    padding: 20px;
+}
+
+#app {
+    position: relative;
+    padding: 80px;
+}
+
+#apples {
+    position: relative;
+}
+
+#numbers {
+    position: relative;
+    height: 80px;
+}
+
+span.number-node {
+    position: absolute;
+    padding: 8px;
+    border: #000 1px solid;
+}
+
+body { 
+    background-color: antiquewhite;
+}
+
+#expression{
+    letter-spacing: .5em;
+    font-size: 54px;
+    color: chocolate;
+}
